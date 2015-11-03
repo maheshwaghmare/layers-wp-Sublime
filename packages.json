@@ -1,0 +1,12 @@
+{
+	"name": "Layers WP",
+	"details": "https://github.com/maheshwaghmare/layers-wp-Sublime",
+	"releases": [
+		{
+			"sublime_text": "*",
+			"tags": true
+			"author": "wbond",
+			"description": "Layers WP - Snippets - (http://www.layerswp.com/)",
+		}
+	]
+}
